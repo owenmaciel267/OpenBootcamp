@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.seccion{
+    background-color: rgb(209, 209, 209);
+    color: rgb(19, 19, 19);
+    padding: 1rem;
+    margin: 1rem;
+}
+.parrafo{
+    background-color: rgb(212, 129, 21);
+    padding: 1rem;
+}
+
+
+.parrafo.dragging{
+    color: aliceblue;
+    opacity: 0.5;
+
+}
+
+#img-fanstasma{
+    width: 100%;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    left: -100vw;
+}
